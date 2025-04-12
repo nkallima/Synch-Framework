@@ -323,4 +323,4 @@ The Synch framework is provided under the [LGPL-2.1 License](https://github.com/
 # Contact
 
 For any further information, please do not hesitate to
-send an email at nkallima (at) isi.gr. Feedback is always valuable.
+send an email at nkallima (at) gmail.com. Feedback is always valuable.
